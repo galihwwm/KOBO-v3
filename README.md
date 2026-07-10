@@ -1,13 +1,13 @@
-# 🌾🐃 KOBO v2 — Belajar Koperasi Bersama Bao
+# 🌾🐃 KOBO v3 — Belajar Koperasi Bersama Bao
 
 Aplikasi gamifikasi literasi koperasi yang dikembangkan untuk
 **Hackathon Digital Cooperatives Expo 2026 — Pilar 4: Literasi Gen-Z & Gen-Alpha dalam Berkoperasi**.
 
-KOBO v2 hadir dengan pembaruan besar yang berfokus pada pemberian materi dasar-dasar koperasi melalui fitur *materi*, game pembelajaran melalui fitur *belajar*, dan daftar koperasi melalui fitur *katalog*. Kami memperbaiki kekurangan dan menambahkan fitur baru dari versi prototipe sebelumnya menjadi fitur yang lebih matang dan interaktif.
+KOBO v3 hadir dengan pembaruan besar yang berfokus pada pemberian materi dasar-dasar koperasi melalui fitur *materi*, game pembelajaran melalui fitur *belajar*, dan daftar koperasi melalui fitur *katalog* dari shared database Kemenkop. Kami memperbaiki kekurangan dan menambahkan fitur baru dari versi prototipe sebelumnya menjadi fitur yang lebih matang dan interaktif.
 
-> **Status: Minimum Viable Product (MVP) Version 2.0**
+> **Status: Minimum Viable Product (MVP) Version 3.0**
 
-<!-- 🔗 **Coba langsung:** https://<username>.github.io/<nama-repo>/ -->
+🔗 **Coba langsung:** https://galihwwm.github.io/KOBO-v3/
 
 ---
 
@@ -22,9 +22,9 @@ KOBO v2 hadir dengan pembaruan besar yang berfokus pada pemberian materi dasar-d
 
 ---
 
-## 🎯 Relevansi dengan Tema Pilar 4 (Apa yang baru di v2?)
+## 🎯 Relevansi dengan Tema Pilar 4 (Apa yang baru di v3?)
 
-Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, Kobo v2 merealisasikan komitmen Pilar 4 secara penuh dengan mengusung alur "Belajar $\rightarrow$ Paham $\rightarrow$ Bergabung":
+Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, Kobo v3 merealisasikan komitmen Pilar 4 secara penuh dengan mengusung alur "Belajar $\rightarrow$ Paham $\rightarrow$ Bergabung":
 1. Belajar: pengguna kini dibekali materi yang dapat dipelajari sebelum bermain game pembelajaran.
 2. Paham: pengguna menguji dan memahami materi melalui game interaktif.
 3. Bergabung: menghubungkan minat generasi muda untuk bergabung langsung ke koperasi di sekitar mereka.
@@ -32,17 +32,17 @@ Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, Kobo v2 merealisasi
 ---
 
 
-## ✨ Fitur Utama & Pembaruan (v1 vs v2)
+## ✨ Fitur Utama & Pembaruan
 
 - **Maskot "Bao" 🐃** — Bao si kerbau memandu dan memberi umpan balik tiap soal. Kerbau dipilih sebagai
   simbol kerja keras dan gotong royong yang identik dengan pertanian Indonesia — sekaligus pembeda dari
   aplikasi belajar lain.
 
-- **📖 Menu Materi (Baru di v2)**: Pengguna tidak lagi langsung dihadapkan pada kuis. Kini tersedia menu materi khusus agar pengguna bisa membaca dan mempelajari konsep perkoperasian terlebih dahulu. Seluruh materi diambil dari sumber resmi terpercaya.
+- **📖 Menu Materi (Pembaruan v2)**: Pengguna tidak lagi langsung dihadapkan pada kuis. Kini tersedia menu materi khusus agar pengguna bisa membaca dan mempelajari konsep perkoperasian terlebih dahulu. Seluruh materi diambil dari sumber resmi terpercaya.
 
 - **🗺️ Menu Mandiri Katalog Koperasi (Pembaruan v2)**: Menu katalog koperasi kini dipisahkan menjadi halaman/menu tersendiri agar pengguna dapat mengeksplorasi, mencari, dan menyaring daftar koperasi di lingkungan sekitarnya dengan jauh lebih mudah dan fokus untuk bergabung pada keanggotaan koperasi.
 
-- **📍 Deteksi & Sinkronisasi Lokasi (Pembaruan v2)**: Jika pada versi 1 data katalog masih bersifat dummy (contoh), KOBO v2 kini dilengkapi fitur deteksi lokasi. Aplikasi melakukan pencocokan (match) data koperasi berdasarkan titik koordinat lintang dan bujur (Latitude & Longitude) perangkat pengguna untuk menampilkan koperasi terdekat secara presisi.
+- **📍 Deteksi & Sinkronisasi Lokasi (Pembaruan v3)**: Jika pada versi 1 data katalog masih bersifat dummy (contoh), KOBO v3 kini dilengkapi fitur deteksi lokasi. Aplikasi melakukan pencocokan (match) data koperasi berdasarkan titik koordinat lintang dan bujur (Latitude & Longitude) perangkat pengguna untuk menampilkan koperasi terdekat secara presisi. Data katalog koperasi pada KOBO v3 berdasarkan shared database Kemenkop untuk kegiatan Hackathon Digital Cooperatives Expo 2026. 
 
 - **🎮 Sistem Gamifikasi yang Matang**: Mempertahankan elemen interaktif yang disukai Gen-Z dan Gen-Alpha seperti perolehan poin XP, daily streak, nyawa (hearts), lencana kelulusan, dan bimbingan dari maskot Bao 🐃.
 
@@ -56,13 +56,10 @@ Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, Kobo v2 merealisasi
 
 ## 🆚 Yang Membedakan Kobo
 
-Aplikasi belajar gamifikasi pada umumnya berhenti pada penyampaian teori. Kobo melangkah lebih jauh
-dengan **menghubungkan edukasi ke aksi nyata**: di akhir tiap pelajaran, pengguna disuguhi daftar koperasi beserta jenis, lokasi, layanan, dan syarat keanggotaan yang bisa dicari dan disaring. Inilah inti
-diferensiasi Kobo — pengetahuan baru langsung dikaitkan dengan peluang konkret untuk menjadi anggota koperasi.
+Aplikasi belajar gamifikasi pada umumnya berhenti pada penyampaian teori. Kobo melangkah lebih jauh dengan **menghubungkan edukasi ke aksi nyata**. Pengguna disuguhi daftar koperasi beserta jenis, lokasi, layanan, dan syarat keanggotaan yang bisa dicari dan disaring. Inilah inti diferensiasi Kobo — pengetahuan baru langsung dikaitkan dengan peluang konkret untuk menjadi anggota koperasi.
 
 ## 🧱 Arsitektur Manajemen Data
-Untuk kemudahan pemeliharaan (sustainability), struktur data aplikasi KOBO v2 dirancang secara modular dan terpisah:
-
+Untuk kemudahan pemeliharaan (sustainability), struktur data aplikasi KOBO v3 dirancang secara modular dan terpisah:
 - data/materials.json : Menyimpan teks materi, deskripsi, dan tautan referensi eksternal terpercaya yang diakses di Menu Materi.
 - data/lessons.json : Menampung bank soal interaktif (pilihan ganda, benar/salah, dan mencocokkan).
 - data/coops.json : Database daftar koperasi yang sudah dilengkapi data spasial (lat dan lng) untuk kalkulasi jarak terdekat pengguna.
@@ -87,8 +84,7 @@ python3 -m http.server 8000
 
 ## 🧱 Teknologi
 
-HTML, CSS, dan JavaScript murni (vanilla). **Tanpa** framework, **tanpa** build step, **tanpa** dependensi.
-Font dimuat dari Google Fonts (butuh internet untuk tampilan font terbaik).
+HTML, CSS, dan JavaScript.
 
 ## 📁 Struktur
 
@@ -114,12 +110,8 @@ Font dimuat dari Google Fonts (butuh internet untuk tampilan font terbaik).
 
 ## ⚠️ Keterbatasan & Catatan
 
-- **Materi & data koperasi bersifat contoh (dummy)** untuk demo. Sebelum digunakan, perlu
-  **verifikasi setiap materi** dengan sumber resmi seperti **UU No. 25 Tahun 1992 tentang
-  Perkoperasian** dan regulasi terbaru. Daftar koperasi di mini-katalog juga dummy dan perlu
-  dihubungkan ke data koperasi resmi & terverifikasi.
-- **Belum ada autentikasi/akun**, multi-pengguna, atau sinkronisasi cloud. Progres hanya tersimpan
-  di satu browser/perangkat.
+- **Materi & data koperasi bersifat contoh (dummy)** untuk demo.
+- **Belum ada autentikasi/akun**, multi-pengguna, atau sinkronisasi cloud.
 - **Belum ada fitur sosial** (leaderboard, komunitas) — peluang pengembangan lanjutan.
 
 ## 🔭 Ide Pengembangan Lanjutan
