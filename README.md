@@ -24,7 +24,7 @@ KOBO v3 hadir dengan pembaruan besar yang berfokus pada pemberian materi dasar-d
 
 ## 🎯 Relevansi dengan Tema Pilar 4 (Apa yang baru di v3?)
 
-Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, Kobo v3 merealisasikan komitmen Pilar 4 secara penuh dengan mengusung alur "Belajar $\rightarrow$ Paham $\rightarrow$ Bergabung":
+Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, KOBO v3 merealisasikan komitmen Pilar 4 secara penuh dengan mengusung alur "Belajar $\rightarrow$ Paham $\rightarrow$ Bergabung":
 1. Belajar: pengguna kini dibekali materi yang dapat dipelajari sebelum bermain game pembelajaran.
 2. Paham: pengguna menguji dan memahami materi melalui game interaktif.
 3. Bergabung: menghubungkan minat generasi muda untuk bergabung langsung ke koperasi di sekitar mereka.
@@ -34,9 +34,7 @@ Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, Kobo v3 merealisasi
 
 ## ✨ Fitur Utama & Pembaruan
 
-- **Maskot "Bao" 🐃** — Bao si kerbau memandu dan memberi umpan balik tiap soal. Kerbau dipilih sebagai
-  simbol kerja keras dan gotong royong yang identik dengan pertanian Indonesia — sekaligus pembeda dari
-  aplikasi belajar lain.
+- **Maskot "Bao" 🐃** — Bao si kerbau memandu dan memberi umpan balik tiap soal. Kerbau dipilih sebagai simbol kerja keras dan gotong royong yang identik dengan pertanian Indonesia — sekaligus pembeda dari aplikasi belajar lain.
 
 - **📖 Menu Materi (Pembaruan v2)**: Pengguna tidak lagi langsung dihadapkan pada kuis. Kini tersedia menu materi khusus agar pengguna bisa membaca dan mempelajari konsep perkoperasian terlebih dahulu. Seluruh materi diambil dari sumber resmi terpercaya.
 
@@ -50,8 +48,7 @@ Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, Kobo v3 merealisasi
 
 - **3 Tipe soal interaktif**: pilihan ganda, benar/salah, dan mencocokkan pasangan.
 
-- **🎓 Sertifikat kelulusan**: setelah semua unit selesai, pengguna membuat sertifikat ber-nama dengan
-  gelar "Sahabat Koperasi" yang bisa diunduh (.png) dan dibagikan ke media sosial.
+- **🎓 Sertifikat kelulusan**: setelah semua unit selesai, pengguna membuat sertifikat ber-nama dengan gelar "Sahabat Koperasi" yang bisa diunduh (.png) dan dibagikan ke media sosial.
 
 
 ## 🆚 Yang Membedakan Kobo
