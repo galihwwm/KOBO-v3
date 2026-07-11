@@ -8,6 +8,7 @@ KOBO v3 hadir dengan pembaruan besar yang berfokus pada pemberian materi dasar-d
 > **Status: Minimum Viable Product (MVP) Version 3.0**
 
 🔗 **Coba langsung:** https://galihwwm.github.io/KOBO-v3/
+
 ▶️ **Video demo aplikasi:** https://youtu.be/rFyKRyuMAmU
 ---
 
