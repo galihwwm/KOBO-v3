@@ -8,7 +8,7 @@ KOBO v3 hadir dengan pembaruan besar yang berfokus pada pemberian materi dasar-d
 > **Status: Minimum Viable Product (MVP) Version 3.0**
 
 🔗 **Coba langsung:** https://galihwwm.github.io/KOBO-v3/
-
+▶️ **Video demo aplikasi:** https://youtu.be/rFyKRyuMAmU
 ---
 
 ## 👥 Tim
@@ -51,7 +51,7 @@ Jika pada versi sebelumnya Kobo berfokus pada simulasi kuis, KOBO v3 merealisasi
 - **🎓 Sertifikat kelulusan**: setelah semua unit selesai, pengguna membuat sertifikat ber-nama dengan gelar "Sahabat Koperasi" yang bisa diunduh (.png) dan dibagikan ke media sosial.
 
 
-## 🆚 Yang Membedakan Kobo
+## 🆚 Keunikan Kobo
 
 Aplikasi belajar gamifikasi pada umumnya berhenti pada penyampaian teori. Kobo melangkah lebih jauh dengan **menghubungkan edukasi ke aksi nyata**. Pengguna disuguhi daftar koperasi beserta jenis, lokasi, layanan, dan syarat keanggotaan yang bisa dicari dan disaring. Inilah inti diferensiasi Kobo — pengetahuan baru langsung dikaitkan dengan peluang konkret untuk menjadi anggota koperasi.
 
@@ -118,6 +118,17 @@ HTML, CSS, dan JavaScript.
 - **Mode kontributor** — antarmuka bagi koperasi/dinas untuk menambah materi tanpa menyentuh kode.
 - **Akun pengguna + sinkronisasi** — via backend ringan atau layanan BaaS.
 - **Audio & aksesibilitas tambahan** untuk jangkauan lebih luas.
+
+## Versioning KOBO
+- KOBO v1 (Jun 24, 2026)
+  Repo: https://github.com/galihwwm/Kobo-v1
+  Demo aplikasi: https://galihwwm.github.io/Kobo-v1/
+- KOBO v2 (Jul 10, 2026)
+  Repo: https://github.com/galihwwm/KOBO-v2
+  Demo aplikasi: https://galihwwm.github.io/KOBO-v2/
+- KOBO v3 (Jul 11, 2026)
+  Repo: https://github.com/galihwwm/KOBO-v3
+  Demo aplikasi: https://galihwwm.github.io/KOBO-v3/
 
 ## 📄 Lisensi
 
