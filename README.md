@@ -10,6 +10,7 @@ KOBO v3 hadir dengan pembaruan besar yang berfokus pada pemberian materi dasar-d
 🔗 **Coba langsung:** https://galihwwm.github.io/KOBO-v3/
 
 ▶️ **Video demo aplikasi:** https://youtu.be/rFyKRyuMAmU
+
 ---
 
 ## 👥 Tim
