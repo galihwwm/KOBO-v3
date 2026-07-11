@@ -69,7 +69,7 @@ Untuk kemudahan pemeliharaan (sustainability), struktur data aplikasi KOBO v3 di
 **Via server lokal (disarankan):**
 1. Clone repositori ini ke komputer Anda:
 ```bash
-git clone https://github.com/galihwwm/Kobo-v2.git
+git clone https://github.com/galihwwm/KOBO-v3.git
 ```
 
 2. Jalankan server lokal agar fitur pemanggilan data JSON lokal dan deteksi lokasi berjalan lancar:
