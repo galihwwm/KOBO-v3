@@ -1,7 +1,7 @@
 [
   {
     "id": "m1",
-    "title": "Mengenal koperasi dan jenisnya",
+    "title": "Kenalan sama koperasi",
     "description": "Pelajari definisi koperasi, bentuk dan pembentukannya, serta peran pentingnya dalam perekonomian Indonesia.",
     "category": "Dasar Koperasi",
     "url": "https://talentakoperasi.id/video/44/mengenal-koperasi-dan-jenisnya",
@@ -9,24 +9,24 @@
   },
   {
     "id": "m2",
-    "title": "Azas dan Prinsip Koperasi",
-    "description": "Pelajari azas dan prinsip yang mendasari operasional koperasi.",
+    "title": "Simpanan dan Modal",
+    "description": "Pelajari simpanan dan modal di koperasi",
     "category": "Dasar Koperasi",
     "url": "https://talentakoperasi.id/video/45/azas-dan-prinsip-koperasi",
     "emoji": "💰"
   },
   {
     "id": "m3",
-    "title": "Kewajiban dan Hak Anggota Koperasi",
-    "description": "Pelajari kewajiban dan hak anggota koperasi, serta bagaimana mereka berperan dalam keberlangsungan koperasi.",
+    "title": "Rahasia SHU",
+    "description": "Pelajari Rahasia dibalik Simpanan Hasil Usaha (SHU) di Koperasi",
     "category": "Dasar Koperasi",
     "url": "https://talentakoperasi.id/video/47/kewajiban-dan-hak-anggota-koperasi",
     "emoji": "🚀"
   },
     {
     "id": "m4",
-    "title": "Ketentuan Modal, Usaha dan Sisa Hasil Usaha",
-    "description": "Pelajari ketentuan modal, usaha, dan sisa hasil usaha dalam koperasi, serta bagaimana hal ini mempengaruhi operasional dan keuntungan koperasi.",
+    "title": "Koperasi Zaman Now",
+    "description": "Pelajari implementasi koperasi di era digital",
     "category": "Dasar Koperasi",
     "url": "https://talentakoperasi.id/video/48/ketentuan-modal-usaha-dan-sisa-hasil-usaha",
     "emoji": "💰"
